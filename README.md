@@ -1,4 +1,4 @@
-## You can start using it in second with vite
+### You can start using it in second with vite
 
 ```bash
 $ git clone https://github.com/umutgul3r/react-vite-tailwindcss-boilerplate.git
