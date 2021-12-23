@@ -1,9 +1,8 @@
 import { useState } from "react";
 
-
 function App() {
   return (
-    <div class="text-[155px] font-bold underline decoration-red-600 bg-orange-200">
+    <div class="text-[50px] font-bold decoration-red-600 text-center">
       tailwindcss
     </div>
   );
